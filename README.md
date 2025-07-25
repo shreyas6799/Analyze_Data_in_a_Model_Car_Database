@@ -94,7 +94,7 @@ This project analyzes business data from the **Mint Classics** MySQL database us
 
 ---
 
-## 📎 Conclusion
+## 🧾 Conclusion
 
 This project demonstrates how SQL can be used to drive meaningful business decisions from raw transactional data. From inventory planning and supplier evaluation to customer targeting and seasonal strategy — SQL can answer key operational questions with clarity and precision.
 
